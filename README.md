@@ -2,7 +2,7 @@
 
 ## 概要
 PyOpenglNPRはノンフォトリアリスティック(NRP)な表現ができる機能をpython3で実装したレンダラソフトである。
-![7-31-1-43](https://user-images.githubusercontent.com/31681741/30103166-cacc3080-932c-11e7-9ced-19aa6df2029f.png)
+![screenshot](https://user-images.githubusercontent.com/31681741/30103796-ac60e8dc-932e-11e7-940e-c2d945f7c99c.png)
 
 ## インストール
 実行にはpythonのほか以下の追加ライブラリが必要。
