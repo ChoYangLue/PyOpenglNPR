@@ -50,3 +50,39 @@ xwindowとの相性が悪いようで、Linux環境ではうまくウィンド�
 
 ## その他
 2017年前期作成
+
+## 参考文献
+http://qiita.com/edo_m18/items/71f6064f3355be7e4f45 shader+pyopengl
+http://miffysora.wikidot.com/pyopengl-shader
+https://showa-yojyo.github.io/notebook/python-pyopengl/shader.html
+http://qiita.com/ar90n@github/items/934b1048b3173d2a3b04
+https://github.com/hgomersall/Blog-Code/tree/master/opengl_utils
+
+shader
+http://www.arakin.dyndns.org/glsl_cartoon.php
+http://gamescience.jp/2009/Paper/Matsuo_2009.pdf
+https://www21.atwiki.jp/opengl/pages/318.html
+http://marina.sys.wakayama-u.ac.jp/~tokoi/?date=20080218
+http://python-opengl-examples.blogspot.jp/
+https://wgld.org/d/webgl/w048.html
+https://wgld.org/d/webgl/w077.html
+
+GLSL
+http://d.hatena.ne.jp/programer_hoshimi/20101027
+https://wgld.org/d/glsl/g001.html
+http://sssiii.seesaa.net/article/392425404.html
+http://d.sonicjam.co.jp/post/130263392711
+
+collada
+http://miffysora.wikidot.com/dae
+http://maverickproj.web.fc2.com/WebGL_15/collada.js
+http://maverickproj.web.fc2.com/WebGL_15/WebGL_15.html
+http://miffysora.wikidot.com/opengl-antialiasing
+
+FXAA
+http://www.geeks3d.com/20110405/fxaa-fast-approximate-anti-aliasing-demo-glsl-opengl-test-radeon-geforce/3/
+https://gamedev.stackexchange.com/questions/119545/inverted-fxaa-shader
+http://zerogram.info/?p=941#more-941
+http://nullege.com/codes/show/src@b@l@blenderpython-HEAD@scripts@addons_extern@blender26-meshio@export_pmx.py/105/pymeshio.pmx.Bone
+http://sssiii.seesaa.net/article/411486529.html
+
