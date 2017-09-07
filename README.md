@@ -46,7 +46,7 @@ xwindowとの相性が悪いようで、Linux環境ではうまくウィンド�
 
 ## シェーダー
 ![7-29-35-50](https://user-images.githubusercontent.com/31681741/30154385-b32cd70e-93f4-11e7-958f-028857c64d46.png)
-
+![6-9-49-56](https://user-images.githubusercontent.com/31681741/30154428-ce64ae34-93f4-11e7-85db-d286a6a15ca4.png)
 
 ## その他
 2017年前期作成
